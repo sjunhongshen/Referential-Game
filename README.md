@@ -1,6 +1,8 @@
 # Emergence of Recursive Teaching Protocol between Theory of Mind Agents
 
-This is the code repo for the referential games described in the paper "Emergence of Recursive Teaching Protocol between Theory of Mind Agents." In this work, we applied ToM to a cooperative multiagent pedagogical environment and developed an efficient communication protocol which improves the agents' performance in completing referential tasks. We proposed an adaptive algorithm to learn the ToM protocol and showed that the teaching complexity in the protocol is an empirical approximation of the recursive teaching dimension (RTD).
+This is the code repo for the referential games described in the paper "Emergence of Recursive Teaching Protocol between Theory of Mind Agents" by Luyao Yuan, Zipeng Fu, Jingyue Shen, Lu Xu, Junhong Shen, Song-Chun Zhu (https://arxiv.org/abs/2001.07752).
+
+In this work, we applied ToM to a cooperative multiagent pedagogical environment and developed an efficient communication protocol which improves the agents' performance in completing referential tasks. We proposed an adaptive algorithm to learn the ToM protocol and showed that the teaching complexity in the protocol is an empirical approximation of the recursive teaching dimension (RTD).
 
 ## Code Structure
 
